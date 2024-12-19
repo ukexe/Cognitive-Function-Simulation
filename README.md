@@ -48,6 +48,9 @@ The project includes comprehensive visualization tools for:
 * Synaptic current flow analysis
 * Network-wide activity patterns
 
+![a1](https://github.com/user-attachments/assets/ca3792e2-fde3-48db-b96e-9b4036d1c5c4)![a2](https://github.com/user-attachments/assets/e768d124-de5a-4fa5-8a1c-4751d5425ad5)
+
+
 🛠️ **Installation**
 ---------------
 
